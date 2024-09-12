@@ -8,6 +8,10 @@
 
 	<form action="simpleBean.jsp" method="post" >
 	<table width="500" border="0" cellspacing="0" cellpadding="3" align="left">
+		<tr>
+			<td>이름</td>
+			<td><input type=text name="name"></td>
+		</tr>
 		<tr> 
 			<td width="100"> 메시지</td>
 			<td width="400"> 
